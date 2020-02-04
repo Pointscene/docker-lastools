@@ -1,6 +1,6 @@
 # docker-lastools
 Docker for LAStools  
-Based on Ubuntu 14.04 trusty  
+Based on Ubuntu 18.04 bionic  
 
 This container has the open source versions listed on https://github.com/LAStools/LAStools  
 
