@@ -1,6 +1,6 @@
 # docker-lastools
 Docker for LAStools  
-Based on Ubuntu 18.04 bionic  
+Based on Ubuntu 20.04 focal
 
 This container has the open source versions listed on https://github.com/LAStools/LAStools  
 
